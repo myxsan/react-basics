@@ -1,0 +1,23 @@
+{
+  "name": "react-patika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node basics/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myxsan/react-patika.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myxsan/react-patika/issues"
+  },
+  "homepage": "https://github.com/myxsan/react-patika#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
